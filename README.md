@@ -1,30 +1,41 @@
 
 <div align="center">
-  <img src="https://capsule-render.github.io/page/render?type=wave&color=auto&height=250&section=header&text=DATA%20ANALYTICS%20SPECIALIST&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Capsule Render Banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7C3AED,25:2563EB,50:06B6D4,75:10B981,100:14B8A6&text=RIYAZ&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Business%20Intelligence&descAlignY=60&animation=fadeIn" alt="Riyaz GitHub Banner"/>
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9061F9&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Engineer;Python+%26+BI+Developer" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2800&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%F0%9F%93%8A+Data+Analyst;%F0%9F%93%88+Business+Intelligence+Analyst;%F0%9F%90%8D+Python+Developer;%F0%9F%97%84+SQL+Developer;%F0%9F%93%89+Power+BI+Dashboard+Developer;%F0%9F%93%8A+Excel+Data+Analytics;%F0%9F%A5%B9+Data+Cleaning+%26+Visualization;%F0%9F%9A%80+Turning+Data+into+Business+Insights;%F0%9F%92%BC+Open+to+Data+Analyst+Opportunities" alt="Typing Animation"/>
+
 </div>
 
 <div align="center">
-  
-  [![Degree](https://img.shields.io/badge/B.Tech-Computer_Science-4B5563?style=flat-square&logo=academia)](#)
-  [![Location](https://img.shields.io/badge/Location-India-6366F1?style=flat-square&logo=googlemaps&logoColor=white)](#)
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Projects_Hub-7C3AED?style=for-the-badge&logo=react&logoColor=white)](#)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
-  <br />
+<!-- Academic & Location Badges -->
+[![Degree](https://img.shields.io/badge/B.E-Computer_Science-4B5563?style=flat-square&amp;logo=academia)](#)
+[![Location](https://img.shields.io/badge/Location-India-6366F1?style=flat-square&amp;logo=googlemaps&amp;logoColor=white)](#)
 
-  ![](https://komarev.com/ghpvc/?username=riyazi-dev&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
-  [![Followers](https://img.shields.io/github/followers/riyazi-dev?label=Followers&style=flat-square&color=6366F1)](https://github.com/riyazi-dev)
-  [![Stars](https://img.shields.io/github/stars/riyazi-dev?label=Stars&style=flat-square&color=4F46E5)](https://github.com/riyazi-dev)
+<br />
+
+<!-- Actionable Professional Networks Connected to riyazi-dev -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects_Hub-7C3AED?style=for-the-badge&amp;logo=react&amp;logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/riyaz-i-a53bb6281)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/riyazi-dev)
+
+<br />
+
+<!-- Real-Time Traffic Indicators & Repos Counters -->
+![](https://komarev.com/ghpvc/?username=riyazi-dev&amp;color=7c3aed&amp;style=flat-square&amp;label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/riyazi-dev?label=Followers&amp;style=flat-square&amp;color=6366F1)](https://github.com/riyazi-dev?tab=followers)
+[![Stars](https://img.shields.io/github/stars/riyazi-dev?label=Stars&amp;style=flat-square&amp;color=4F46E5)](https://github.com/riyazi-dev?tab=stars)
 
 </div>
 
+---
 ---
 
 ## 01. About Me
@@ -37,43 +48,70 @@ Highly analytical and business-focused **Data Analyst and Computer Science Gradu
 *   **Open To:** Full-time Data Analyst roles, Business Intelligence opportunities, Associate Consultant tracks, and innovative data-driven collaborations.
 
 ---
-
-## 02. Tech Stack
+## 📊 02. Tech Stack
 
 <div align="left">
 
-### Languages
+### 🐍 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" alt="Programming Languages" />
 </p>
 
-### Frontend
+### 📊 Data Analytics
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge" />
 </p>
 
-### Backend & Databases
+### 📈 Business Intelligence
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql" alt="Backend & DB" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dashboarding-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Query-0066CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DAX-FFB300?style=for-the-badge" />
 </p>
 
-### Cloud, DevOps & Tooling
+### 🤖 Python Data Science Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
+</p>
+
+### ⚙️ Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools" />
 </p>
 
 </div>
 
 ---
 
-## 03. AI/ML & Data Expertise
+## 📈 03. Data Analytics Expertise
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Data Manipulation** | Advanced | Pandas, NumPy, Data Cleaning, Advanced Excel Formulas |
-| **Business Intelligence** | Advanced | Power BI Dashboarding, Power Query, DAX Modeling |
-| **Predictive Modeling** | Intermediate | Random Forest, XGBoost, Scikit-Learn Regression & Classification |
-| **Backend Data Fabrics** | Intermediate | Java Spring Data JPA, Automated Object-Relational Mapping |
+| Skill Area | Technologies |
+|------------|--------------|
+| 📊 Data Analysis | Excel, SQL, Python |
+| 🧹 Data Cleaning | Pandas, NumPy, Excel |
+| 📉 Data Visualization | Power BI, Matplotlib, Seaborn |
+| 📋 Dashboard Development | Power BI, Excel |
+| 🗃️ Database Management | MySQL, PostgreSQL |
+| 📈 Business Intelligence | Power BI, DAX, Power Query |
+| 📑 Reporting | KPI Reports, Business Reports, Interactive Dashboards |
+| 🧠 Statistics | Descriptive Statistics, Data Interpretation |
+| 🔧 Version Control | Git, GitHub |## 📊 02. Tech Stack
+
+<div align="left">
 
 ---
 
