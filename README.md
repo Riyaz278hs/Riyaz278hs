@@ -162,3 +162,111 @@ A sophisticated machine learning classification platform designed to predict fin
 </details>
 
 ---
+
+## 05. Experience
+
+### Data Analytics Intern | *Novitech Pvt Ltd*
+*November 2025 — December 2025*
+*   Intensive Project Delivery: Completed a rigorous 30-day corporate data analytics training and project deployment cycle.
+*   Data Transformation: Cleansed, engineered, and structured raw datasets using advanced Excel capabilities and Python libraries (Pandas/NumPy).
+*   Relational Querying: Designed robust database schemas and wrote optimized SQL queries to extract key performance indicators.
+*   BI Visualization: Architected enterprise-grade Power BI dashboards to communicate complex business metrics clearly to senior management.
+
+> Tech Stack Mastered: Excel • SQL • Power BI • Python • Pandas • Data Modeling
+
+---
+
+## 06. Achievements
+
+<div align="center">
+
+| Recognition | Details |
+| :--- | :--- |
+| First-Generation Graduate Scholar | Dedicated higher education pioneer maintaining a strong 7.93 consolidated CGPA. |
+| Cricket Media Creator | Founded 'Cric Sense', an active content and video creation initiative for international cricket. |
+
+</div>
+
+---
+
+## 07. Certifications
+
+#### NPTEL / Academic Institutions
+*   [![NPTEL Data Science](https://img.shields.io/badge/NPTEL-Data_Analytics_and_Engineering-0078D4?style=flat-square&logo=gitbook&logoColor=white)](#) • Verified Academic Specialization in Analytical Modeling.
+
+#### Corporate Programs
+*   [![Novitech Internship](https://img.shields.io/badge/Novitech-Certified_Data_Analytics_Professional-2F8D46?style=flat-square&logo=databricks&logoColor=white)](#) • 30-Day Corporate Analytics & BI Internship.
+
+---
+
+## 08. Coding Profiles
+
+<div align="center">
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Riyaz__I-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Riyaz__I-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+
+</div>
+
+---
+
+## 09. GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Riyaz278hs&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;title_color=9061F9&amp;icon_color=6366F1&amp;bg_color=0d1117" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyaz278hs&amp;theme=dark&amp;hide_border=true&amp;background=0d1117&amp;ring=9061F9&amp;fire=6366F1" alt="Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz278hs&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;title_color=9061F9&amp;bg_color=0d1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 10. GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Riyaz278hs&amp;theme=onedark&amp;column=7&amp;margin-w=15&amp;margin-h=15&amp;no-bg=true" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 11. Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyaz278hs&amp;bg_color=0d1117&amp;color=6366F1&amp;line=9061F9&amp;point=ffffff&amp;area=true&amp;hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+---
+
+## 12. Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Riyaz278hs/Riyaz278hs/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+## 13. Current Focus
+
+`yaml
+focus:
+  learning:
+    - Advanced Data Warehousing Architectures and ETL Best Practices
+    - Deepening Statistical Analysis via Production Machine Learning Pipelines
+  building:
+    - Custom Automated Python Scripting Modules for Rapid CSV Preprocessing
+    - Enhancing Interactive Dashboard Design Frameworks for Modern Business Metrics
+  exploring:
+    - Sports Telemetry Processing and Advanced Predictive Cricket Analytics
+  open_to:
+    - Corporate Data Analyst Positions & Analytics Internships
