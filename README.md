@@ -258,15 +258,15 @@ A sophisticated machine learning classification platform designed to predict fin
 
 ## 13. Current Focus
 
-`yaml
-focus:
-  learning:
+### `yaml
+### focus:
+  ### learning:
     - Advanced Data Warehousing Architectures and ETL Best Practices
     - Deepening Statistical Analysis via Production Machine Learning Pipelines
-  building:
+### building:
     - Custom Automated Python Scripting Modules for Rapid CSV Preprocessing
     - Enhancing Interactive Dashboard Design Frameworks for Modern Business Metrics
-  exploring:
+  ### exploring:
     - Sports Telemetry Processing and Advanced Predictive Cricket Analytics
-  open_to:
+  ### open_to:
     - Corporate Data Analyst Positions & Analytics Internships
