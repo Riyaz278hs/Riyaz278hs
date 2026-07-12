@@ -5,12 +5,7 @@
 
 </div>
 
-<div align="center">
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2800&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%F0%9F%93%8A+Data+Analyst;%F0%9F%93%88+Business+Intelligence+Analyst;%F0%9F%90%8D+Python+Developer;%F0%9F%97%84+SQL+Developer;%F0%9F%93%89+Power+BI+Dashboard+Developer;%F0%9F%93%8A+Excel+Data+Analytics;%F0%9F%A5%B9+Data+Cleaning+%26+Visualization;%F0%9F%9A%80+Turning+Data+into+Business+Insights;%F0%9F%92%BC+Open+to+Data+Analyst+Opportunities" alt="Typing Animation"/>
-
-</div>
 
 <div align="center">
 
@@ -45,16 +40,17 @@
 ---
 
 ---
----
 
-## 01. About Me
+## 👨‍💻 01.About Me
+ ### I am a Computer Science Engineering graduate and an aspiring Data Analyst passionate about turning raw data into meaningful business insights. With hands-on internship experience, I enjoy solving real-world problems using data and continuously expanding my analytical skills.
 
-Highly analytical and business-focused **Data Analyst and Computer Science Graduate** with a dedicated engineering mindset geared towards transforming complex datasets into actionable strategic insights. Driven by a long-term vision to excel as a specialized data analytics leader, I focus on building optimized data transformation pipelines, interactive business intelligence architectures, and predictive machine learning workflows. 
-
-*   **Data Engineering & Analytics:** Advanced SQL querying, ETL pipeline design, automated data cleaning, and complex statistical analysis.
-*   **AI/ML Optimization:** Predictive statistical modeling utilizing advanced machine learning algorithms to evaluate complex risk dimensions.
-*   **Business Intelligence:** Creating high-impact, interactive dashboards that translate granular transactional data into corporate insights.
-*   **Open To:** Full-time Data Analyst roles, Business Intelligence opportunities, Associate Consultant tracks, and innovative data-driven collaborations.
+- 📊Skilled in SQL, Python, Excel, Power BI, and Data Visualization.
+- 🧹Experienced in data cleaning, data analysis, ETL processes, and dashboard creation.
+- 📈Able to transform complex datasets into clear, actionable business insights.
+- 🤖Familiar with Machine Learning concepts and predictive models using Random Forest and XGBoost.
+- 💡Strong analytical, problem-solving, and reporting skills with attention to detail.
+- 🚀Continuously learning modern data analytics tools and best practices.
+- 🎯Seeking Data Analyst, Business Intelligence Analyst, or Junior Data Consultant opportunities to contribute to data-driven decision-making.
 
 ---
 ## 📊 02. Tech Stack
