@@ -20,11 +20,11 @@
 
 <br />
 
-<!-- Actionable Professional Networks Connected to riyazi-dev -->
+<!-- Actionable Professional Networks Connected to riyaz278hs -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-Projects_Hub-7C3AED?style=for-the-badge&amp;logo=react&amp;logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/riyaz-i-a53bb6281)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/riyazi-dev)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:your-riyazashif53@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/ riyaz278hs)
 
 <br />
 
