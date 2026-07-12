@@ -14,26 +14,35 @@
 
 <div align="center">
 
-<!-- Academic & Location Badges -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2800&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%F0%9F%93%8A+Data+Analyst;%F0%9F%93%88+Business+Intelligence+Analyst;%F0%9F%90%8D+Python+Developer;%F0%9F%97%84+SQL+Developer;%F0%9F%93%89+Power+BI+Dashboard+Developer;%F0%9F%93%8A+Excel+Data+Analytics;%F0%9F%A5%B9+Data+Cleaning+%26+Visualization;%F0%9F%9A%80+Turning+Data+into+Business+Insights;%F0%9F%92%BC+Open+to+Data+Analyst+Opportunities" alt="Typing Animation"/>
+
+</div>
+
+<div align="center">
+
+<!-- Academic & Location Info -->
 [![Degree](https://img.shields.io/badge/B.E-Computer_Science-4B5563?style=flat-square&amp;logo=academia)](#)
 [![Location](https://img.shields.io/badge/Location-India-6366F1?style=flat-square&amp;logo=googlemaps&amp;logoColor=white)](#)
 
 <br />
 
-<!-- Actionable Professional Networks Connected to riyaz278hs -->
+<!-- Verified Professional Networks for Riyaz278hs -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-Projects_Hub-7C3AED?style=for-the-badge&amp;logo=react&amp;logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/riyaz-i-a53bb6281)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:your-riyazashif53@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/ riyaz278hs)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:riyazashif53@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Riyaz278hs)
 
 <br />
+<br />
 
-<!-- Real-Time Traffic Indicators & Repos Counters -->
-![](https://komarev.com/ghpvc/?username=riyazi-dev&amp;color=7c3aed&amp;style=flat-square&amp;label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/riyazi-dev?label=Followers&amp;style=flat-square&amp;color=6366F1)](https://github.com/riyazi-dev?tab=followers)
-[![Stars](https://img.shields.io/github/stars/riyazi-dev?label=Stars&amp;style=flat-square&amp;color=4F46E5)](https://github.com/riyazi-dev?tab=stars)
+<!-- Real-Time Traffic Counters (Riyaz278hs) -->
+![](https://komarev.com/ghpvc/?username=Riyaz278hs&amp;color=7c3aed&amp;style=flat-square&amp;label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/Riyaz278hs?label=Followers&amp;style=flat-square&amp;color=6366F1)](https://github.com/Riyaz278hs?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Riyaz278hs?label=Stars&amp;style=flat-square&amp;color=4F46E5)](https://github.com/Riyaz278hs?tab=stars)
 
 </div>
+
+---
 
 ---
 ---
