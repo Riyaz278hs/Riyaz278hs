@@ -22,7 +22,7 @@
 <br />
 
 <!-- Verified Professional Networks for Riyaz278hs -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects_Hub-7C3AED?style=for-the-badge&amp;logo=react&amp;logoColor=white)](https://riyazportfolio-gvh7mil94-riyazz.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects_Hub-7C3AED?style=for-the-badge&amp;logo=react&amp;logoColor=white)](https://vercel.com/riyazz/riyaz_portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/riyaz-i-a53bb6281)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:riyazashif53@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Riyaz278hs)
