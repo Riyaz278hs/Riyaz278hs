@@ -16,7 +16,7 @@
 <div align="center">
 
 <!-- Academic & Location Info -->
-[![Degree](https://img.shields.io/badge/B.E-Computer_Science-4B5563?style=flat-square&amp;logo=academia)](#)
+[![Degree](https://img.shields.io/badge/B.E-Computer_Science_Engineer-4B5563?style=flat-square&amp;logo=academia)](#)
 [![Location](https://img.shields.io/badge/Location-India-6366F1?style=flat-square&amp;logo=googlemaps&amp;logoColor=white)](#)
 
 <br />
